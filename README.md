@@ -1,2 +1,2 @@
 # Kattis
-Some solutions to kattis problems
+Solutions to somme kattis problems
